@@ -48,7 +48,7 @@ applications:
          root_url: '%(protocol)s://%(domain)s:%(http_port)s/grafana'
          # See https://grafana.com/blog/2023/08/24/grafana-security-update-gpg-signing-key-rotation/
          install_keys: |
-            - |
+          - |
             -----BEGIN PGP PUBLIC KEY BLOCK-----
 
             mQGNBGO4aiUBDAC82zo3vUyQH3yTCabQ7ZpospBg/xXBbJWbQNksIbEP/+I12CjB
